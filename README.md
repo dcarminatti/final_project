@@ -1,10 +1,10 @@
 # Python Login System
 
-## Video Demo:  
+## Video Demo
     <URL HERE>
 
-## Description: 
-    The Python code implements a basic user registration and login system, storing credentials in a CSV file called "credentials.csv". It uses the hashlib library to create MD5 hashes of passwords, offers a simple text interface for the user to choose between registration, login or exit, and validates user information through queries against the CSV file. The code also uses the tabulate library to present action options in a table format in the user interface. Note that using MD5 for password hashing is not recommended for security purposes.
+## Description
+The Python code implements a basic user registration and login system, storing credentials in a CSV file called "credentials.csv". It uses the hashlib library to create MD5 hashes of passwords, offers a simple text interface for the user to choose between registration, login or exit, and validates user information through queries against the CSV file. The code also uses the tabulate library to present action options in a table format in the user interface. Note that using MD5 for password hashing is not recommended for security purposes.
 
 ## How it works
 
